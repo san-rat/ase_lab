@@ -2,7 +2,7 @@
 
 > A minimal e-commerce application demonstrating Test-Driven Development (TDD) principles.
 
-**Author:** [Your Name / Student ID here]
+**Author:** Sanuk Ratnayake - IT23651388
 
 ---
 
